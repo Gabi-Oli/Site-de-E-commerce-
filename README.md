@@ -2,9 +2,8 @@
 Uma landing page moderna para e-commerce desenvolvida com HTML5 e CSS3, apresentando produtos em destaque, categorias, promoções, avaliações de clientes e uma seção de ofertas especiais.
 
 📸 Preview
-Adicione aqui uma captura de tela do projeto:
-Markdown
-![Preview do Projeto](./Imagens/preview.png)
+
+![Preview do Projeto](Preview.jpg)
 
 🚀 Funcionalidades
 
