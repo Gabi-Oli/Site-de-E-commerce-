@@ -3,7 +3,7 @@ Uma landing page moderna para e-commerce desenvolvida com HTML5 e CSS3, apresent
 
 📸 Preview
 
-![Preview do Projeto](Preview.jpg.png)
+![Preview do Projeto](preview2.jpg.png)
 
 https://gabi-oli.github.io/Site-de-E-commerce-/
 
